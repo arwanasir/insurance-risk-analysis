@@ -1,4 +1,11 @@
 pandas
+ task-3
+matplotlib
+numpy
+seaborn
+scipy
+jupyter
+statsmodels
 numpy
 matplotlib
 seaborn
@@ -6,3 +13,4 @@ scikit-learn
 jupyter
 dvc
 pytest
+
