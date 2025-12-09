@@ -6,11 +6,4 @@ seaborn
 scipy
 jupyter
 statsmodels
-numpy
-matplotlib
-seaborn
 scikit-learn
-jupyter
-dvc
-pytest
-
